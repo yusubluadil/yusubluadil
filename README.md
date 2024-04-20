@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/6ae5c45e5b473b06c6ffa15213eca9e626b6eee445a3b131cf7ac0683e4543cf/68747470733a2f2f7777772e61756469656e6365706c616e65742e636f6d2f726f6f742f74656d706c6174652f312f2f696d616765732f7765622d646576656c6f706d656e742e676966)
 <h1 align="center">Hi 👋, I'm Adil Yusublu</h1>
 <h3 align="center">A Passionate BackEnd Developer</h3>
-<img align="right" alt="Coding" src="https://camo.githubusercontent.com/d3124707e7d7972e8abb65e3f406baace3657c623a7ee1547850fe8a46d386c3/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a457859574a6c5a47497a596e6c7563574e6b61544277644752744e337031635452325a6d35786144566a5957497a5a6d5275596e46744f535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f7167515567674143335066763638377150432f67697068792e676966" data-canonical-src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJlZGIzYnlucWNkaTBwdGRtN3p1cTR2Zm5xaDVjYWIzZmRuYnFtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img align="right" alt="Coding" src="35066763638377150432f67697068792e676966" data-canonical-src="https://miro.medium.com/v2/resize:fit:679/1*XR3rTO1O_RM69jFDcez7cw.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusubluadil&label=Profile%20views&color=0e75b6&style=flat" alt="yusubluadil" /> </p>
 
