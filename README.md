@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **yusubluadil00@gmail.com**
 
-- ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar on August 27, 1896. It lasted only 38 minutes!
+- ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar on August 27, 1896. It lasted only 38 minutes!**
 
 A group of flamingos is called a "flamboyance."
 
