@@ -15,13 +15,13 @@
 
 - ⚡ Fun fact **The shortest war in history was between Britain and Zanzibar on August 27, 1896. It lasted only 38 minutes!**
 
-**A group of flamingos is called a "flamboyance."**
+     **A group of flamingos is called a "flamboyance."**
 
-**Bananas are berries, but strawberries aren't!**
+     **Bananas are berries, but strawberries aren't!**
 
-**The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.**
+     **The Eiffel Tower can be 15 cm taller during the summer due to thermal expansion.**
 
-**Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!**
+     **Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
